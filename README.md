@@ -1,4 +1,5 @@
 # README
+This is very good app i will pay for it. Yay.
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
